@@ -1,0 +1,15 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore build output
+dist/
+build/
